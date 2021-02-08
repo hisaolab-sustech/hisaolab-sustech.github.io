@@ -1,13 +1,13 @@
 title:              Computational Intelligence Lab
-email:              your-email@example.com
+email:              hisao@sustech.edu.cn
 description:        SUSTech
-author:             Weiyu Chen
+author:             Hisao's Lab
 baseurl:            "/"
 url:                "https://hisaolab-sustech.github.io"
 
 # Social Profiles
 twitter_username:   xxx
-github_username:    xxx
+github_username:    hisaolab-sustech
 facebook_username:  xxx
 linkedin_username:
 

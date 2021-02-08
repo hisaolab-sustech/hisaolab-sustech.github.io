@@ -1,29 +1,38 @@
-- name: Undergraduate
+- name: Undergraduates
   url: undergraduate
   members:
   - name: Weiyu Chen 陈巍昱
     email: 11711904@mail.sustech.edu.cn
 
-- name: Postgraduate
+  - name: Longcan Chen 陈龙灿
+    email: 1181xxxx@mail.sustech.edu.cn
+
+  - name: Weijie Huang 黄炜杰
+    email: 1181xxxx@mail.sustech.edu.cn
+
+
+- name: Postgraduates
   url: postgraduate
   members:
   - name: Yiming Peng 彭一明
-    email:
-
+    email: xxxx@mail.sustech.edu.cn
+  - name: Linjun He 贺林君
+    email: xxxx@mail.sustech.edu.cn
 
 - name: Postdoctoral
   url: postdoctor
   members:
-  - name: Lie-Meng Pang 彭丽敏
-    email: panglm@sustech.edu.cn
-    photo: http://faculty.sustech.edu.cn/wp-content/uploads/2018/05/2018050317253951.png
 
 
-- name: Research Assistant
+
+- name: Research Assistants
   url: research_assistant
+  members:
+    - name: Yang Nan 南洋
+      email: xxxx@mail.sustech.edu.cn
 
 
-- name: Research Assistant Professor
+- name: Research Assistant Professors
   url: research_assistant_professor
   members:
   - name: Jinyuan Zhang 张晋媛
@@ -33,6 +42,10 @@
   - name: Ke Shang 尚可
     email: kshang@foxmail.com
     photo: http://faculty.sustech.edu.cn/wp-content/uploads/2018/05/2018050314171061.png
+
+  - name: Lie-Meng Pang 彭丽敏
+    email: panglm@sustech.edu.cn
+    photo: http://faculty.sustech.edu.cn/wp-content/uploads/2018/05/2018050317253951.png
 
 
 - name: Past members

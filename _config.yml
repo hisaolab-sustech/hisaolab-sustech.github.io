@@ -3,7 +3,7 @@ email:              your-email@example.com
 description:        SUSTech
 author:             Weiyu Chen
 baseurl:            "/"
-url:                "https://wingchan1999.github.io"
+url:                "https://hisaolab-sustech.github.io"
 
 # Social Profiles
 twitter_username:   xxx

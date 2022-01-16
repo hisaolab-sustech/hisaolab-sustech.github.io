@@ -3,10 +3,9 @@ layout: page
 title: News
 background: '/img/bg-post.jpg'
 ---
+<h2>Enjoy Reading This Article?</h2>
 
 {% for post in site.posts %}
-
-<p><span style="font-size: 18pt; font-family: 'times new roman', times, serif;">Journal:</span></p>
 
 <article class="post-preview">
   <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">

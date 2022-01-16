@@ -6,6 +6,8 @@ background: '/img/bg-post.jpg'
 
 {% for post in site.posts %}
 
+<p><span style="font-size: 18pt; font-family: 'times new roman', times, serif;">Journal:</span></p>
+
 <article class="post-preview">
   <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
     <h2 class="post-title">{{ post.title }}</h2>

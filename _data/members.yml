@@ -1,10 +1,17 @@
 - name: Undergraduates
   url: undergraduate
   members:
-  - name: Longcan Chen 陈龙灿
+  - name: Longcan Chen 陈龙灿 (2018)
     email: 11813009@mail.sustech.edu.cn
-
-
+    
+  - name: Ziyu Wu 吴子彧 (2019)
+  
+  - name: Zhilong Shen 沈挚龙 (2019)
+  
+  - name: Guangyan An 安广言 (2019)
+  
+  - name: Yubin Guo 郭宇宾 (2019)
+  
 - name: Postgraduates
   url: postgraduate
   members:
@@ -13,7 +20,16 @@
     
   - name: Weiduo Liao 廖伟多
     email: 11849249@mail.sustech.edu.cn
-
+    
+  - name: Yiming Peng 彭一明
+    
+  - name: Yang Nan 南洋
+    email: nany@mail.sustech.edu.cn
+    photo: https://z3.ax1x.com/2021/07/05/R4n8Ld.png
+    
+  - name: Tianye Shu 舒天野
+    email: 12132356@mail.sustech.edu.cn
+    
 - name: Postdoctoral
   url: postdoctor
   members:
@@ -23,9 +39,7 @@
 - name: Research Assistants
   url: research_assistant
   members:
-    - name: Yang Nan 南洋
-      email: nany@mail.sustech.edu.cn
-      photo: https://z3.ax1x.com/2021/07/05/R4n8Ld.png
+
 
 
 - name: Research Assistant Professors
@@ -47,8 +61,6 @@
 - name: Past members
   url: past_members
   members:
-  - name: Yiming Peng 彭一明
-    email: xxxx@mail.sustech.edu.cn
 
   - name: Weijie Huang 黄炜杰
     email: 1181xxxx@mail.sustech.edu.cn

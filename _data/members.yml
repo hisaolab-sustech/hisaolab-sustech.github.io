@@ -1,11 +1,13 @@
-- name: Undergraduates
-  url: undergraduate
+- name: Research Assistant Professors
+  url: research_assistant_professor
   members:
-  - name: Han Zhu 朱晗
-  - name: Guizheng Wang 王贵正
-  - name: Xujia Zhang 张栩嘉
-  - name: Zhongrong He 何忠荣
-  - name: Kuangjie Xu 徐匡劼
+  - name: Ke Shang 尚可
+    email: kshang@foxmail.com
+    photo: http://faculty.sustech.edu.cn/wp-content/uploads/2018/05/2018050314171061.png
+
+  - name: Lie-Meng Pang 彭丽敏
+    email: panglm@sustech.edu.cn
+    photo: http://faculty.sustech.edu.cn/wp-content/uploads/2018/05/2018050317253951.png
 
 - name: Postgraduates
   url: postgraduate
@@ -27,30 +29,22 @@
     
   - name: Gongtong Wu 吴国桐
   
-  
-  
 - name: Postdoctoral
   url: postdoctor
   members:
 
-
-
 - name: Research Assistants
   url: research_assistant
   members:
-
-
-
-- name: Research Assistant Professors
-  url: research_assistant_professor
+  
+- name: Undergraduates
+  url: undergraduate
   members:
-  - name: Ke Shang 尚可
-    email: kshang@foxmail.com
-    photo: http://faculty.sustech.edu.cn/wp-content/uploads/2018/05/2018050314171061.png
-
-  - name: Lie-Meng Pang 彭丽敏
-    email: panglm@sustech.edu.cn
-    photo: http://faculty.sustech.edu.cn/wp-content/uploads/2018/05/2018050317253951.png
+  - name: Han Zhu 朱晗
+  - name: Guizheng Wang 王贵正
+  - name: Xujia Zhang 张栩嘉
+  - name: Zhongrong He 何忠荣
+  - name: Kuangjie Xu 徐匡劼
 
 - name: Past members
   url: past_members
